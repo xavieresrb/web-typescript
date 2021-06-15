@@ -34,6 +34,11 @@
       "name": "newer name",
       "age": 3,
       "id": 7
+    },
+    {
+      "name": "Peter",
+      "age": 25,
+      "id": 8
     }
   ]
 }
